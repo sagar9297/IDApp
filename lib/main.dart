@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       backgroundColor: Colors.grey[900],
       appBar: AppBar(
         title: const Text(
-          'ID Card',
+          'Ninja ID Card',
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Colors.grey[850],
